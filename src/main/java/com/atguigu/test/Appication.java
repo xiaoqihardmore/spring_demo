@@ -9,5 +9,6 @@ public class Appication {
         System.out.println("你好");
         System.out.println("hello");
         System.out.println("newBranch");
+        System.out.println("master");
     }
 }
